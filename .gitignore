@@ -1,0 +1,10 @@
+build*/
+sdkconfig
+sdkconfig.old
+managed_components/
+.superpowers/
+.env*
+!*.example
+secrets.local.*
+__pycache__/
+*.pyc
